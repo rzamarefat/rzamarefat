@@ -4,9 +4,9 @@
 
 
 # About me
-I am currently pursuing my Bachelors in Computer Science Engineering from Sahyadri College of Engineering and Management, Mangalore. I love to code, watch movies and find vulnerabilities in websites.
+Machine Learning Engineer, specializing in Computer Vision with more than 3 years of practical experience in the industry. Building and maintaining real-time intelligent systems ranging from face authorization and vision-based recommendation to multi-modal video indexing systems. Have worked in agile environments with teammates from 4 to 50 colleagues. Equipped with back and front-end technologies and hands-on experience for making production-level services for AI-based modules. A mentor, buddy, and friend for newcomers in the workplace.
 
-# Technologies used
+# Technologies
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
@@ -20,19 +20,19 @@ I am currently pursuing my Bachelors in Computer Science Engineering from Sahyad
 
 
 # Projects
-- YOLONAS+DeepSORT
-- YOLOv8_TDDFA
-- YOLOv8Face
+- [YOLONAS+DeepSORT](https://github.com/rzamarefat/YOLONAS_DeepSORT)
+- [YOLOv8_TDDFA](https://github.com/rzamarefat/YOLO_TDDFA)
+- [YOLOv8Face](https://github.com/rzamarefat/YOLOv8_Face)
 - [Self-Supervised Visual Search E-Commerce](https://github.com/rzamarefat/SelfSupervised_Visual_Search_ECommerce)
-- Segify
-- Real-time Face Segmentation
-- Persian Attention OCR
-- Face Retrieval System
-- Captioner
-- DrawOnAir
-- Face Gender Detection
-- Face Landmark Detection
-- Face Mask Classifier
+- [Segify](https://github.com/rzamarefat/Segify)
+- [Real-time Face Segmentation](https://github.com/rzamarefat/Real-time-Face-Segmentation)
+- [Persian Attention OCR](https://github.com/rzamarefat/Persian-AttentionOCR)
+- [Face Retrieval System](https://github.com/rzamarefat/Face_Retrieval)
+- [Captioner](https://github.com/rzamarefat/Captioner)
+- [DrawOnAir](https://github.com/rzamarefat/DrawOnAir)
+- [Face Gender Detection](https://github.com/rzamarefat/face-gender-det)
+- [Face Landmark Detection](https://github.com/rzamarefat/Facial_Key_Point_Detection)
+- [Face Mask Classifier](https://github.com/rzamarefat/Face_Mask_Classifier)
 
 <p>Connect with me on
 <br>	
