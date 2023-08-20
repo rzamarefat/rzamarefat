@@ -23,7 +23,7 @@ I am currently pursuing my Bachelors in Computer Science Engineering from Sahyad
 - YOLONAS+DeepSORT
 - YOLOv8_TDDFA
 - YOLOv8Face
-- Self-Supervised Visual Search E-Commerce [https://github.com/rzamarefat/SelfSupervised_Visual_Search_ECommerce]
+- [Self-Supervised Visual Search E-Commerce](https://github.com/rzamarefat/SelfSupervised_Visual_Search_ECommerce)
 - Segify
 - Real-time Face Segmentation
 - Persian Attention OCR
