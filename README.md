@@ -11,6 +11,7 @@ Machine Learning Engineer, specializing in Computer Vision with more than 3 year
 - Pytorch/Tensorflow
 
 # Projects
+- [YoloSamDevaTracker](https://github.com/rzamarefat/YoloSamDevaTracker)
 - [YOLONAS+DeepSORT](https://github.com/rzamarefat/YOLONAS_DeepSORT)
 - [YOLOv8_TDDFA](https://github.com/rzamarefat/YOLO_TDDFA)
 - [YOLOv8Face](https://github.com/rzamarefat/YOLOv8_Face)
