@@ -3,7 +3,7 @@
 
 
 # About me
-Machine Learning Engineer, specializing in Computer Vision with more than 3 years of practical experience in the industry. Building and maintaining real-time intelligent systems ranging from face authorization and vision-based recommendation to multi-modal video indexing systems. Have worked in agile environments with teammates from 4 to 50 colleagues. Equipped with back and front-end technologies and hands-on experience for making production-level services for AI-based modules. A mentor, buddy, and friend for newcomers in the workplace.
+Machine Learning Engineer, specializing in Computer Vision with more than 5 years of practical experience in the industry. Building and maintaining real-time intelligent systems ranging from face authorization and vision-based recommendation to multi-modal video indexing systems. Have worked in agile environments with teammates from 4 to 50 colleagues. Equipped with back and front-end technologies and hands-on experience for making production-level services for AI-based modules. A mentor, buddy, and friend for newcomers in the workplace.
 
 # Technologies
 
