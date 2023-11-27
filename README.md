@@ -25,6 +25,7 @@ Machine Learning Engineer, specializing in Computer Vision with more than 5 year
 - [Face Gender Detection](https://github.com/rzamarefat/face-gender-det)
 - [Face Landmark Detection](https://github.com/rzamarefat/Facial_Key_Point_Detection)
 - [Face Mask Classifier](https://github.com/rzamarefat/Face_Mask_Classifier)
+- [DentalYOLO](https://github.com/rzamarefat/DentalYOLO)
 
 <p>Connect with me on
 <br>	
