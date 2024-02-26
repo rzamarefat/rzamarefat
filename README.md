@@ -11,6 +11,7 @@ Machine Learning Engineer, specializing in Computer Vision with more than 5 year
 - Pytorch/Tensorflow
 # Open Source Packages
 - [yolotext](https://pypi.org/project/yolotext)
+- [FaceEmbeddingSuite]
 # Projects
 - [YoloSamDevaTracker](https://github.com/rzamarefat/YoloSamDevaTracker)
 - [YOLONAS+DeepSORT](https://github.com/rzamarefat/YOLONAS_DeepSORT)
