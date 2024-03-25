@@ -12,7 +12,7 @@ Machine Learning Engineer, specializing in Computer Vision with more than 5 year
 # Open Source Packages
 - [yolotext](https://pypi.org/project/yolotext)
 - [skinsegmenter](https://pypi.org/project/skinsegmenter/)
-- [FaceEmbeddingSuite]
+- [FaceEmbeddingSuite](https://github.com/rzamarefat/FaceEmbeddingSuite)
 # Projects
 - [YoloSamDevaTracker](https://github.com/rzamarefat/YoloSamDevaTracker)
 - [YOLONAS+DeepSORT](https://github.com/rzamarefat/YOLONAS_DeepSORT)
