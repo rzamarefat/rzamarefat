@@ -13,7 +13,9 @@ Machine Learning Engineer, specializing in Computer Vision with more than 5 year
 - [yolotext](https://pypi.org/project/yolotext)
 - [skinsegmenter](https://pypi.org/project/skinsegmenter/)
 - [FaceEmbeddingSuite](https://github.com/rzamarefat/FaceEmbeddingSuite)
-# Projects
+# LLMs
+- [Invoice Automation](https://github.com/rzamarefat/Invoice-Automation)
+# Computer Vision
 - [YoloSamDevaTracker](https://github.com/rzamarefat/YoloSamDevaTracker)
 - [YOLONAS+DeepSORT](https://github.com/rzamarefat/YOLONAS_DeepSORT)
 - [YOLOv8_TDDFA](https://github.com/rzamarefat/YOLO_TDDFA)
