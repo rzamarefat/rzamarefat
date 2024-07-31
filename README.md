@@ -16,6 +16,7 @@ Machine Learning Engineer, specializing in Computer Vision with more than 5 year
 # LLMs
 - [Invoice Automation](https://github.com/rzamarefat/Invoice-Automation)
 # Computer Vision
+- [YoloSAM2-FaceSegmentation](https://github.com/rzamarefat/face-segmentation-yolo-sam2)
 - [YoloSamDevaTracker](https://github.com/rzamarefat/YoloSamDevaTracker)
 - [YOLONAS+DeepSORT](https://github.com/rzamarefat/YOLONAS_DeepSORT)
 - [YOLOv8_TDDFA](https://github.com/rzamarefat/YOLO_TDDFA)
