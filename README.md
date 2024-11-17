@@ -16,6 +16,7 @@ Machine Learning Engineer, specializing in Computer Vision with more than 5 year
 # LLMs
 - [Invoice Automation](https://github.com/rzamarefat/Invoice-Automation)
 - [Gemma2 Sentiment Analysis](https://github.com/rzamarefat/gemma-sentiment-analysis)
+- [AYA-Expanse Translation Finetuning](https://github.com/rzamarefat/gemma-sentiment-analysis)
 # Computer Vision
 - [YoloSAM2-FaceSegmentation](https://github.com/rzamarefat/face-segmentation-yolo-sam2)
 - [YoloSamDevaTracker](https://github.com/rzamarefat/YoloSamDevaTracker)
