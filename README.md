@@ -21,11 +21,17 @@ Key Skills:
 💎 Programming Languages: Python, JavaScript, C++
 
 💎 Machine Learning Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
+
 💎 Technologies: OpenCV, LangChain, Numpy, Matplotlib, Pandas
+
 💎 Development Tools: Docker, FastAPI, React, Redux, Flask, Django, Streamlit, Gradio
+
 💎 Data Handling: SQL, PostgreSQL, ChromaDB, FAISS
+
 💎 Cloud Platforms: AWS
+
 💎 Communication Tools: Jira, Slack, Quire
+
 💎 Agile-Based Development: Agile methodologies
 
 # Open Source Packages
