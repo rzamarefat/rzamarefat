@@ -1,5 +1,4 @@
 # Hello :wave:, I am (Abdol) Reza Marefat 😃 
-- Machine Learning Engineer
 
 
 # About me
