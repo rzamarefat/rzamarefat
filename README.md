@@ -17,7 +17,9 @@ I get excited about opportunities where I can contribute to cutting-edge project
 I love connecting with new people, you can reach me at rzamarefat@gmail.com
 
 Key Skills:
+
 💎 Programming Languages: Python, JavaScript, C++
+
 💎 Machine Learning Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
 💎 Technologies: OpenCV, LangChain, Numpy, Matplotlib, Pandas
 💎 Development Tools: Docker, FastAPI, React, Redux, Flask, Django, Streamlit, Gradio
