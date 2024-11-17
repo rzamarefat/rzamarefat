@@ -4,10 +4,28 @@
 # About me
 Machine Learning Engineer, specializing in Computer Vision with more than 5 years of practical experience in the industry. Building and maintaining real-time intelligent systems ranging from face authorization and vision-based recommendation to multi-modal video indexing systems. Have worked in agile environments with teammates from 4 to 50 colleagues. Equipped with back and front-end technologies and hands-on experience for making production-level services for AI-based modules. A mentor, buddy, and friend for newcomers in the workplace.
 
-# Technologies
+🔷 Driven Generative AI & ML Engineer with 8+ years of experience in Machine Learning and Artificial Intelligence. 
 
-- Python/JS/C++
-- Pytorch/Tensorflow
+🔷 I help companies leverage advanced machine learning and generative AI technologies to solve complex problems and drive innovation. 
+
+🔷 With a proven track record of enhancing model performance by 25%, improving data processing efficiency by 35%, and achieving over 98% accuracy in critical applications, I specialize in delivering impactful solutions that meet and exceed business goals.
+
+🔰Outside of work, I am passionate about continuous learning and staying updated with the latest advancements in ML/AI. I enjoy collaborating with cross-functional teams and believe in the power of innovative thinking and creativity in solving technical challenges.
+
+I get excited about opportunities where I can contribute to cutting-edge projects and collaborate with a team that values innovation and excellence.
+
+I love connecting with new people, you can reach me at rzamarefat@gmail.com
+
+Key Skills:
+💎 Programming Languages: Python, JavaScript, C++
+💎 Machine Learning Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
+💎 Technologies: OpenCV, LangChain, Numpy, Matplotlib, Pandas
+💎 Development Tools: Docker, FastAPI, React, Redux, Flask, Django, Streamlit, Gradio
+💎 Data Handling: SQL, PostgreSQL, ChromaDB, FAISS
+💎 Cloud Platforms: AWS
+💎 Communication Tools: Jira, Slack, Quire
+💎 Agile-Based Development: Agile methodologies
+
 # Open Source Packages
 - [yolotext](https://pypi.org/project/yolotext)
 - [skinsegmenter](https://pypi.org/project/skinsegmenter/)
