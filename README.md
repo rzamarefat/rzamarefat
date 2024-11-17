@@ -16,7 +16,7 @@ I get excited about opportunities where I can contribute to cutting-edge project
 
 I love connecting with new people, you can reach me at rzamarefat@gmail.com
 
-Key Skills:
+## Key Skills:
 
 💎 Programming Languages: Python, JavaScript, C++
 
