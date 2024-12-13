@@ -66,4 +66,4 @@ I love connecting with new people, you can reach me at rzamarefat@gmail.com
 <br>
 </p>
 
-![GitHub Stars](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+![GitHub Stars](https://github-readme-stats.vercel.app/api?username=rzamarefat&show_icons=true&hide_title=true)
