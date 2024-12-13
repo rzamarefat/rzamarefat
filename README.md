@@ -65,3 +65,5 @@ I love connecting with new people, you can reach me at rzamarefat@gmail.com
 <a target="_blank" href="https://www.linkedin.com/in/abdolreza-marefat/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <br>
 </p>
+
+![GitHub Stars](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
