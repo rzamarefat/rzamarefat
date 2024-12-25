@@ -43,7 +43,7 @@ I love connecting with new people, you can reach me at rzamarefat@gmail.com
 - [Gemma2 Sentiment Analysis](https://github.com/rzamarefat/gemma-sentiment-analysis)
 - [AYA-Expanse Translation Finetuning](https://github.com/rzamarefat/Aya-Expanse-Finetuning)
 # Computer Vision
-- [UNET++ Lung Segmentation](https://github.com/rzamarefat/chest_xray_seg)
+- [UNET++/YOLOv11 Lung Segmentation](https://github.com/rzamarefat/chest_xray_seg)
 - [YoloSAM2-FaceSegmentation](https://github.com/rzamarefat/face-segmentation-yolo-sam2)
 - [YoloSamDevaTracker](https://github.com/rzamarefat/YoloSamDevaTracker)
 - [YOLONAS+DeepSORT](https://github.com/rzamarefat/YOLONAS_DeepSORT)
